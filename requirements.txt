@@ -1,0 +1,6 @@
+aiohttp
+requests
+beautifulsoup4
+rich
+colorama
+dnspython
